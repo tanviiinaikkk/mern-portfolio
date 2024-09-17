@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f0857a3a.css",
-    "main.js": "/static/js/main.5dc6c688.js",
+    "main.css": "/static/css/main.67faf362.css",
+    "main.js": "/static/js/main.27fd2bfa.js",
     "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
     "static/media/resume.pdf": "/static/media/resume.ba4f11055b9a00b2837f.pdf",
     "static/media/certi.pdf": "/static/media/certi.d1208872ad50e66e95f1.pdf",
@@ -11,12 +11,12 @@
     "static/media/neurocare.jpeg": "/static/media/neurocare.151bea37962dc4f121d1.jpeg",
     "static/media/apollo.webp": "/static/media/apollo.3fa1a87a4f5f76ea9449.webp",
     "index.html": "/index.html",
-    "main.f0857a3a.css.map": "/static/css/main.f0857a3a.css.map",
-    "main.5dc6c688.js.map": "/static/js/main.5dc6c688.js.map",
+    "main.67faf362.css.map": "/static/css/main.67faf362.css.map",
+    "main.27fd2bfa.js.map": "/static/js/main.27fd2bfa.js.map",
     "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0857a3a.css",
-    "static/js/main.5dc6c688.js"
+    "static/css/main.67faf362.css",
+    "static/js/main.27fd2bfa.js"
   ]
 }
